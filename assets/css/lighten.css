@@ -1,0 +1,29 @@
+@import url('bootstrap.min.css');
+
+.topbar {
+    background-color: #ffc221;
+}
+
+.mynav .nav .nav-item .nav-link {
+    padding: 30px 23px 0 23px;
+    line-height: 20px;
+    font-size: 16px;
+    display: block;
+    font-weight: 500;
+    color: #010005;
+    text-transform: uppercase;
+}
+
+.mynav .nav .nav-item .nav-link:hover {
+    color: #ffc221;
+}
+
+.mynav .nav .nav-item .active {
+    color: #ffc221;
+}
+
+.mynav .btn {
+    background: #ffc221;
+    padding: 7px 41px;
+    border-radius: 5px;
+}
